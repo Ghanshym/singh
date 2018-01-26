@@ -1,0 +1,26 @@
+1.  Whenever we are using 
+
+/mvc/*  
+
+
+***url pattern then give   
+
+
+<img src="../images/banner.jpg" width="800" height="150"/>
+<link type="text/css" rel="stylesheet" href="../css/common.css">
+<script type="text/javascript" src="../script/formValidations.js"></script>
+
+
+================================
+
+And when we are using *.htm pattern
+
+
+then simple only file name give
+
+<img src="images/banner.jpg" width="800" height="150"/>
+<link type="text/css" rel="stylesheet" href="css/common.css">
+<script type="text/javascript" src="script/formValidations.js"></script>
+
+
+-----this is final Project----
